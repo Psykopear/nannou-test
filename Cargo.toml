@@ -1,0 +1,9 @@
+[package]
+name = "testnannou"
+version = "0.1.0"
+authors = ["Federico Dolce <psykopear@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nannou = "0.9.0"
+warmy = "0.12.0"
